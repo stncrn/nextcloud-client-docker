@@ -1,5 +1,5 @@
 FROM alpine:latest
-LABEL maintainer="juanignacioborda@gmail.com"
+LABEL maintainer="st@nisl.as"
 ARG VCS_REF
 ARG BUILD_DATE
 ARG buildno
